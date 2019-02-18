@@ -1,0 +1,4059 @@
+{
+    "frameRate": 24,
+    "version": "4.5",
+    "isGlobal": 0,
+    "armature": [
+        {
+            "frameRate": 24,
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 0.2,
+                                        "x": 61.6
+                                    },
+                                    "name": "parts/beardR"
+                                }
+                            ],
+                            "name": "beardR"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": 13.9232,
+                                        "skY": 13.9232,
+                                        "y": 4.7392,
+                                        "x": 56.5203
+                                    },
+                                    "name": "parts/armUpperR"
+                                }
+                            ],
+                            "name": "armUpperR"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": -94.0239,
+                                        "skY": -94.0239,
+                                        "y": -6.0098,
+                                        "x": 82.5819
+                                    },
+                                    "name": "parts/legR"
+                                }
+                            ],
+                            "name": "legR"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": -4.9086,
+                                        "skY": -4.9086,
+                                        "y": 0.3975,
+                                        "x": 0.045
+                                    },
+                                    "name": "parts/hair"
+                                }
+                            ],
+                            "name": "hair"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": -88.1106,
+                                        "skY": -88.1106,
+                                        "y": 5.0626,
+                                        "x": 23.0456
+                                    },
+                                    "name": "parts/handR"
+                                }
+                            ],
+                            "name": "handR"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -0.5,
+                                        "x": 1.5
+                                    },
+                                    "name": "parts/eyeR"
+                                }
+                            ],
+                            "name": "eyeR"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 0.4,
+                                        "x": 0.3
+                                    },
+                                    "name": "parts/eyeL"
+                                }
+                            ],
+                            "name": "eyeL"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": -85.2356,
+                                        "skY": -85.2356,
+                                        "y": 2.7905,
+                                        "x": 14.2173
+                                    },
+                                    "name": "parts/armR"
+                                }
+                            ],
+                            "name": "armR"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": 82.7421,
+                                        "skY": 82.7421,
+                                        "y": -0.8219,
+                                        "x": 81.6504
+                                    },
+                                    "name": "parts/tailTip"
+                                }
+                            ],
+                            "name": "tailTip"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": 94.9653,
+                                        "skY": 94.9653,
+                                        "y": 0.6195,
+                                        "x": -0.9572
+                                    },
+                                    "name": "parts/body"
+                                }
+                            ],
+                            "name": "body"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": 80.4531,
+                                        "skY": 80.4531,
+                                        "y": -10.5387,
+                                        "x": 122.955
+                                    },
+                                    "name": "parts/head"
+                                }
+                            ],
+                            "name": "head"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": -174.0434,
+                                        "skY": -174.0434,
+                                        "y": -4.3543,
+                                        "x": 49.9847
+                                    },
+                                    "name": "parts/beardL"
+                                }
+                            ],
+                            "name": "beardL"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": -146.9135,
+                                        "skY": -146.9135,
+                                        "y": -6.446,
+                                        "x": 101.115
+                                    },
+                                    "name": "parts/legL"
+                                }
+                            ],
+                            "name": "legL"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": 146.6156,
+                                        "skY": 146.6156,
+                                        "y": -1.4511,
+                                        "x": 34.7325
+                                    },
+                                    "name": "parts/handL"
+                                }
+                            ],
+                            "name": "handL"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": 132.4995,
+                                        "skY": 132.4995,
+                                        "y": 16.0499,
+                                        "x": 32.3981
+                                    },
+                                    "name": "parts/clothes1"
+                                }
+                            ],
+                            "name": "clothes"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": -148.2623,
+                                        "skY": -148.2623,
+                                        "y": 4.3217,
+                                        "x": 27.8984
+                                    },
+                                    "name": "parts/armUpperL"
+                                }
+                            ],
+                            "name": "armUpperL"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": 45.2229,
+                                        "skY": 45.2229,
+                                        "y": -0.3072,
+                                        "x": 120.9881
+                                    },
+                                    "name": "parts/tail"
+                                }
+                            ],
+                            "name": "tail"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "skX": 98.2989,
+                                        "skY": 98.2989,
+                                        "y": -2.8771,
+                                        "x": 26.6948
+                                    },
+                                    "name": "parts/armL"
+                                }
+                            ],
+                            "name": "armL"
+                        }
+                    ],
+                    "name": ""
+                }
+            ],
+            "ik": [],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "stand"
+                }
+            ],
+            "slot": [
+                {
+                    "color": {},
+                    "name": "tailTip",
+                    "parent": "tailTip"
+                },
+                {
+                    "z": 1,
+                    "color": {},
+                    "name": "armUpperL",
+                    "parent": "armUpperL"
+                },
+                {
+                    "z": 2,
+                    "color": {},
+                    "name": "armL",
+                    "parent": "armL"
+                },
+                {
+                    "z": 3,
+                    "color": {},
+                    "name": "handL",
+                    "parent": "handL"
+                },
+                {
+                    "z": 4,
+                    "color": {},
+                    "name": "legL",
+                    "parent": "legL"
+                },
+                {
+                    "z": 5,
+                    "color": {},
+                    "name": "body",
+                    "parent": "body"
+                },
+                {
+                    "z": 6,
+                    "color": {},
+                    "name": "tail",
+                    "parent": "tail"
+                },
+                {
+                    "z": 7,
+                    "color": {},
+                    "name": "clothes",
+                    "parent": "clothes"
+                },
+                {
+                    "z": 8,
+                    "color": {},
+                    "name": "hair",
+                    "parent": "hair"
+                },
+                {
+                    "z": 9,
+                    "color": {},
+                    "name": "head",
+                    "parent": "head"
+                },
+                {
+                    "z": 10,
+                    "color": {},
+                    "name": "eyeL",
+                    "parent": "eyeL"
+                },
+                {
+                    "z": 11,
+                    "color": {},
+                    "name": "eyeR",
+                    "parent": "eyeR"
+                },
+                {
+                    "z": 12,
+                    "color": {},
+                    "name": "legR",
+                    "parent": "legR"
+                },
+                {
+                    "z": 13,
+                    "color": {},
+                    "name": "armUpperR",
+                    "parent": "armUpperR"
+                },
+                {
+                    "z": 14,
+                    "color": {},
+                    "name": "armR",
+                    "parent": "armR"
+                },
+                {
+                    "z": 15,
+                    "color": {},
+                    "name": "handR",
+                    "parent": "handR"
+                },
+                {
+                    "z": 16,
+                    "color": {},
+                    "name": "beardL",
+                    "parent": "beardL"
+                },
+                {
+                    "z": 17,
+                    "color": {},
+                    "name": "beardR",
+                    "parent": "beardR"
+                }
+            ],
+            "bone": [
+                {
+                    "transform": {},
+                    "name": "root"
+                },
+                {
+                    "length": 150,
+                    "parent": "root",
+                    "transform": {
+                        "skX": -94.9653,
+                        "skY": -94.9653,
+                        "y": 50.5419,
+                        "x": 26.0941
+                    },
+                    "name": "body"
+                },
+                {
+                    "length": 120,
+                    "parent": "body",
+                    "transform": {
+                        "skX": -156.0107,
+                        "skY": -156.0107,
+                        "y": 46.9,
+                        "x": -95.6182
+                    },
+                    "name": "legR"
+                },
+                {
+                    "length": 150,
+                    "parent": "body",
+                    "transform": {
+                        "skX": 159.9921,
+                        "skY": 159.9921,
+                        "y": 31.3927,
+                        "x": 80.5853
+                    },
+                    "name": "armUpperR"
+                },
+                {
+                    "length": 150,
+                    "parent": "body",
+                    "transform": {
+                        "skX": -154.3312,
+                        "skY": -154.3312,
+                        "y": -60.2758,
+                        "x": -71.0496
+                    },
+                    "name": "legL"
+                },
+                {
+                    "length": 150,
+                    "parent": "body",
+                    "transform": {
+                        "skX": 11.4957,
+                        "skY": 11.4957,
+                        "y": -5.8037,
+                        "x": 163.1145
+                    },
+                    "name": "head"
+                },
+                {
+                    "length": 70,
+                    "parent": "body",
+                    "transform": {
+                        "skX": -171.7742,
+                        "skY": -171.7742,
+                        "y": -93.6047,
+                        "x": 74.4813
+                    },
+                    "name": "armUpperL"
+                },
+                {
+                    "length": 250,
+                    "parent": "body",
+                    "transform": {
+                        "skX": 79.7425,
+                        "skY": 79.7425,
+                        "y": 70.127,
+                        "x": -117.1092
+                    },
+                    "name": "tail"
+                },
+                {
+                    "length": 80,
+                    "parent": "body",
+                    "transform": {
+                        "skX": -37.5342,
+                        "skY": -37.5342,
+                        "y": -31.7416,
+                        "x": 1.423
+                    },
+                    "name": "clothes"
+                },
+                {
+                    "length": 60,
+                    "parent": "armUpperL",
+                    "transform": {
+                        "skX": 30.7088,
+                        "skY": 30.7088,
+                        "y": 2.2256,
+                        "x": 66.7632
+                    },
+                    "name": "armL"
+                },
+                {
+                    "transform": {
+                        "skX": 80.4531,
+                        "skY": 80.4531,
+                        "y": -23.9957,
+                        "x": 140.2628
+                    },
+                    "name": "eyeR",
+                    "parent": "head"
+                },
+                {
+                    "length": 150,
+                    "parent": "tail",
+                    "transform": {
+                        "skX": -37.5192,
+                        "skY": -37.5192,
+                        "y": -3.1008,
+                        "x": 257.8621
+                    },
+                    "name": "tailTip"
+                },
+                {
+                    "transform": {
+                        "skX": 80.4531,
+                        "skY": 80.4531,
+                        "y": -101.188,
+                        "x": 133.7701
+                    },
+                    "name": "eyeL",
+                    "parent": "head"
+                },
+                {
+                    "length": 80,
+                    "parent": "head",
+                    "transform": {
+                        "skX": -105.5036,
+                        "skY": -105.5036,
+                        "y": -133.6248,
+                        "x": 7.4588
+                    },
+                    "name": "beardL"
+                },
+                {
+                    "length": 50,
+                    "parent": "armUpperR",
+                    "transform": {
+                        "skX": 35.2088,
+                        "skY": 35.2088,
+                        "y": 0.5285,
+                        "x": 138.7492
+                    },
+                    "name": "armR"
+                },
+                {
+                    "length": 80,
+                    "parent": "head",
+                    "transform": {
+                        "skX": 80.4531,
+                        "skY": 80.4531,
+                        "y": -35.857,
+                        "x": 23.2753
+                    },
+                    "name": "beardR"
+                },
+                {
+                    "length": 50,
+                    "parent": "head",
+                    "transform": {
+                        "skX": 86.9099,
+                        "skY": 86.9099,
+                        "y": 80.6309,
+                        "x": 104.8249
+                    },
+                    "name": "hair"
+                },
+                {
+                    "length": 40,
+                    "parent": "armR",
+                    "transform": {
+                        "skX": 17.875,
+                        "skY": 17.875,
+                        "y": 1.1079,
+                        "x": 43.3874
+                    },
+                    "name": "handR"
+                },
+                {
+                    "length": 80,
+                    "parent": "armL",
+                    "transform": {
+                        "skX": 4.4133,
+                        "skY": 4.4133,
+                        "y": -0.4273,
+                        "x": 66.6309
+                    },
+                    "name": "handL"
+                }
+            ],
+            "aabb": {
+                "x": -234.40908264561412,
+                "y": -431.81395140042207,
+                "width": 693.2805749826739,
+                "height": 769.5863484320666
+            },
+            "type": "Armature",
+            "animation": [
+                {
+                    "bone": [
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 30,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "root"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "body"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "legR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "armUpperR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "legL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "head"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "armUpperL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 22,
+                                    "transform": {
+                                        "skX": 4.95,
+                                        "skY": 4.95,
+                                        "x": -4
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "tail"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 12,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 18,
+                                    "transform": {
+                                        "y": -2,
+                                        "x": -2
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "clothes"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "armL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 22,
+                                    "transform": {
+                                        "y": -2
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "eyeR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 22,
+                                    "transform": {
+                                        "skX": -12.64,
+                                        "skY": -12.64,
+                                        "y": -8.0574,
+                                        "x": 5.1348
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "tailTip"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 22,
+                                    "transform": {
+                                        "y": -2
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "eyeL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 15,
+                                    "transform": {
+                                        "skX": 9.6205,
+                                        "skY": 9.6205
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 15,
+                                    "transform": {
+                                        "skX": -1.4848,
+                                        "skY": -1.4848
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 9.6205,
+                                        "skY": 9.6205
+                                    }
+                                }
+                            ],
+                            "name": "beardL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "armR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 15,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 15,
+                                    "transform": {
+                                        "skX": 5.44,
+                                        "skY": 5.44
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "beardR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 12,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 18,
+                                    "transform": {
+                                        "y": -4,
+                                        "x": 2
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "hair"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "handR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "handL"
+                        }
+                    ],
+                    "duration": 30,
+                    "playTimes": 0,
+                    "frame": [],
+                    "slot": [
+                        {
+                            "name": "armUpperL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "handL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "legL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "body",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 12,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "clothes",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 12,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 17,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "hair",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 12,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "head",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "eyeL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 12,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "legR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armUpperR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "handR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 30,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "beardL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 7,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 12,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "beardR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 7,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 8,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 12,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "stand",
+                    "ffd": []
+                },
+                {
+                    "bone": [
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 20,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "root"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "y": -4
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "y": -2
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -4
+                                    }
+                                }
+                            ],
+                            "name": "body"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -30,
+                                        "skY": -30,
+                                        "y": -14,
+                                        "x": -6
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": 30,
+                                        "skY": 30,
+                                        "y": -2,
+                                        "x": -3.9
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -30,
+                                        "skY": -30,
+                                        "y": -14,
+                                        "x": -6
+                                    }
+                                }
+                            ],
+                            "name": "legR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": 45.5,
+                                        "skY": 45.5,
+                                        "y": 14,
+                                        "x": -6
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -22.15,
+                                        "skY": -22.15,
+                                        "y": 2
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 45.5,
+                                        "skY": 45.5,
+                                        "y": 14,
+                                        "x": -6
+                                    }
+                                }
+                            ],
+                            "name": "armUpperR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": 49.67,
+                                        "skY": 49.67,
+                                        "y": 28.4011,
+                                        "x": -40.3442
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -19.23,
+                                        "skY": -19.23,
+                                        "y": -8.9278,
+                                        "x": -22.5206
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 49.67,
+                                        "skY": 49.67,
+                                        "y": 28.4011,
+                                        "x": -40.3442
+                                    }
+                                }
+                            ],
+                            "name": "legL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "y": 4
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": 2.95,
+                                        "skY": 2.95,
+                                        "y": 2
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": 4
+                                    }
+                                }
+                            ],
+                            "name": "head"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -21.2,
+                                        "skY": -21.2,
+                                        "y": 4
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": 30,
+                                        "skY": 30,
+                                        "y": 2
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -21.2,
+                                        "skY": -21.2,
+                                        "y": 4
+                                    }
+                                }
+                            ],
+                            "name": "armUpperL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "x": -8
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -8.7,
+                                        "skY": -8.7,
+                                        "y": -6,
+                                        "x": -12
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "x": -8
+                                    }
+                                }
+                            ],
+                            "name": "tail"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "y": -2,
+                                        "x": -2
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "y": -2,
+                                        "x": -2
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "clothes"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -38.8,
+                                        "skY": -38.8,
+                                        "y": -2.2012,
+                                        "x": -13.0387
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": 38.55,
+                                        "skY": 38.55,
+                                        "y": -5.8451,
+                                        "x": 3.9043
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -38.8,
+                                        "skY": -38.8,
+                                        "y": -2.2012,
+                                        "x": -13.0387
+                                    }
+                                }
+                            ],
+                            "name": "armL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "y": 0.5,
+                                        "x": 1.7
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -2.95,
+                                        "skY": -2.95,
+                                        "y": -0.2773,
+                                        "x": -4.1136
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": 0.5,
+                                        "x": 1.7
+                                    }
+                                }
+                            ],
+                            "name": "eyeR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "y": -0.5359,
+                                        "x": 8.9282
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": 17.93,
+                                        "skY": 17.93,
+                                        "y": 10.0761,
+                                        "x": -2.9969
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -0.5359,
+                                        "x": 8.9282
+                                    }
+                                }
+                            ],
+                            "name": "tailTip"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -2.95,
+                                        "skY": -2.95,
+                                        "y": 4.1907,
+                                        "x": -7.5499
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "eyeL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": 6.04,
+                                        "skY": 6.04,
+                                        "y": -5.5174,
+                                        "x": -3.5187
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "beardL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": 21.72,
+                                        "skY": 21.72,
+                                        "y": 9.9555,
+                                        "x": -2.5742
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": 31.7897,
+                                        "skY": 31.7897,
+                                        "y": 4.9989,
+                                        "x": -2.7325
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": -15.63,
+                                        "skY": -15.63,
+                                        "y": 0.0424,
+                                        "x": -2.8907
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": -19.6672,
+                                        "skY": -19.6672,
+                                        "y": -5.611,
+                                        "x": -0.2247
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 21.72,
+                                        "skY": 21.72,
+                                        "y": 9.9555,
+                                        "x": -2.5742
+                                    }
+                                }
+                            ],
+                            "name": "armR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -10.45,
+                                        "skY": -10.45,
+                                        "y": 1.6594,
+                                        "x": -1.4456
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "beardR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -2.95,
+                                        "skY": -2.95,
+                                        "y": -7.1738,
+                                        "x": 1.1289
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "hair"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -45.48,
+                                        "skY": -45.48,
+                                        "y": 2.0245,
+                                        "x": -16.2659
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": -0.48,
+                                        "skY": -0.48,
+                                        "y": 2.1665,
+                                        "x": 1.4963
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -45.48,
+                                        "skY": -45.48,
+                                        "y": 2.0245,
+                                        "x": -16.2659
+                                    }
+                                }
+                            ],
+                            "name": "handR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": 15,
+                                        "skY": 15,
+                                        "y": 0.9027,
+                                        "x": -1.6657
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "transform": {
+                                        "skX": 6.45,
+                                        "skY": 6.45,
+                                        "y": 3.3992,
+                                        "x": -2.7762
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 15,
+                                        "skY": 15,
+                                        "y": 0.9027,
+                                        "x": -1.6657
+                                    }
+                                }
+                            ],
+                            "name": "handL"
+                        }
+                    ],
+                    "duration": 20,
+                    "playTimes": 0,
+                    "frame": [],
+                    "slot": [
+                        {
+                            "name": "tailTip",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armUpperL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "handL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "legL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "body",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "tail",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "clothes",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "hair",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "head",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "eyeL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "eyeR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "legR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armUpperR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "handR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "beardL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "beardR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 10,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "walk",
+                    "ffd": []
+                },
+                {
+                    "bone": [
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 5,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "root"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "y": -66
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -66
+                                    }
+                                }
+                            ],
+                            "name": "body"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -27.69,
+                                        "skY": -27.69,
+                                        "y": 1.0328,
+                                        "x": 1.1757
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -27.69,
+                                        "skY": -27.69,
+                                        "y": 0.6594,
+                                        "x": -3.122
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -27.69,
+                                        "skY": -27.69,
+                                        "y": 1.0328,
+                                        "x": 1.1757
+                                    }
+                                }
+                            ],
+                            "name": "legR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -24.65,
+                                        "skY": -24.65,
+                                        "y": 10
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -23.1904,
+                                        "skY": -23.1904,
+                                        "y": 9.7511,
+                                        "x": -2.8651
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -24.65,
+                                        "skY": -24.65,
+                                        "y": 10
+                                    }
+                                }
+                            ],
+                            "name": "armUpperR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -15.2954,
+                                        "skY": -15.2954,
+                                        "y": 38.2873,
+                                        "x": -20.6204
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -15.2954,
+                                        "skY": -15.2954,
+                                        "y": 37.7894,
+                                        "x": -26.3507
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -15.2954,
+                                        "skY": -15.2954,
+                                        "y": 38.2873,
+                                        "x": -20.6204
+                                    }
+                                }
+                            ],
+                            "name": "legL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": 10,
+                                        "skY": 10,
+                                        "y": 1.9,
+                                        "x": 3.6
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 10,
+                                        "skY": 10,
+                                        "y": 1.9,
+                                        "x": 3.6
+                                    }
+                                }
+                            ],
+                            "name": "head"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 15,
+                                        "skY": 15,
+                                        "y": 4
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 15,
+                                        "skY": 15,
+                                        "y": 3.6266,
+                                        "x": -4.2977
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 15,
+                                        "skY": 15,
+                                        "y": 4
+                                    }
+                                }
+                            ],
+                            "name": "armUpperL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 9.3457,
+                                        "skY": 9.3457,
+                                        "y": -10,
+                                        "x": -24
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 13.7283,
+                                        "skY": 13.7283,
+                                        "y": -10,
+                                        "x": -24
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 9.3457,
+                                        "skY": 9.3457,
+                                        "y": -10,
+                                        "x": -24
+                                    }
+                                }
+                            ],
+                            "name": "tail"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "y": -4.5108,
+                                        "x": -4.7682
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "y": -4.8842,
+                                        "x": -9.0659
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -4.5108,
+                                        "x": -4.7682
+                                    }
+                                }
+                            ],
+                            "name": "clothes"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": 8.55,
+                                        "skY": 8.55,
+                                        "y": 2.5528,
+                                        "x": -0.5979
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 8.55,
+                                        "skY": 8.55,
+                                        "y": 2.5528,
+                                        "x": -0.5979
+                                    }
+                                }
+                            ],
+                            "name": "armL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -10,
+                                        "skY": -10,
+                                        "y": -8.7028,
+                                        "x": 8.8815
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -10,
+                                        "skY": -10,
+                                        "y": -9.0585,
+                                        "x": 8.1208
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -10,
+                                        "skY": -10,
+                                        "y": -7.7261,
+                                        "x": 9.013
+                                    }
+                                }
+                            ],
+                            "name": "eyeR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 2.89,
+                                        "skY": 2.89,
+                                        "y": 6.3001,
+                                        "x": 2.1698
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 8.91,
+                                        "skY": 8.91,
+                                        "y": -0.896,
+                                        "x": 0.6375
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 2.89,
+                                        "skY": 2.89,
+                                        "y": 6.3001,
+                                        "x": 2.1698
+                                    }
+                                }
+                            ],
+                            "name": "tailTip"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -10,
+                                        "skY": -10,
+                                        "y": -6.3014,
+                                        "x": 8.9391
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -10,
+                                        "skY": -10,
+                                        "y": -9.0585,
+                                        "x": 8.1208
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -10,
+                                        "skY": -10,
+                                        "y": -6.3014,
+                                        "x": 8.9391
+                                    }
+                                }
+                            ],
+                            "name": "eyeL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -50.29,
+                                        "skY": -50.29,
+                                        "y": 19.2267,
+                                        "x": -19.7777
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -58.5649,
+                                        "skY": -58.5649,
+                                        "y": 19.2267,
+                                        "x": -19.7777
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -50.29,
+                                        "skY": -50.29,
+                                        "y": 19.2267,
+                                        "x": -19.7777
+                                    }
+                                }
+                            ],
+                            "name": "beardL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": -13.13,
+                                        "skY": -13.13,
+                                        "y": 1.1591,
+                                        "x": -8.0809
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -13.13,
+                                        "skY": -13.13,
+                                        "y": 1.1591,
+                                        "x": -8.0809
+                                    }
+                                }
+                            ],
+                            "name": "armR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 42.5,
+                                        "skY": 42.5,
+                                        "y": 6.7484,
+                                        "x": -8.1489
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 50.23,
+                                        "skY": 50.23,
+                                        "y": 6.8295,
+                                        "x": -8.0331
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 42.5,
+                                        "skY": 42.5,
+                                        "y": 6.7484,
+                                        "x": -8.1489
+                                    }
+                                }
+                            ],
+                            "name": "beardR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -10,
+                                        "skY": -10,
+                                        "y": -6.0436,
+                                        "x": -0.8181
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -10,
+                                        "skY": -10,
+                                        "y": -2.7989,
+                                        "x": 3.8157
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -10,
+                                        "skY": -10,
+                                        "y": -6.0436,
+                                        "x": -0.8181
+                                    }
+                                }
+                            ],
+                            "name": "hair"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": -0.48,
+                                        "skY": -0.48,
+                                        "y": 2.1665,
+                                        "x": 1.4963
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -0.48,
+                                        "skY": -0.48,
+                                        "y": 2.1665,
+                                        "x": 1.4963
+                                    }
+                                }
+                            ],
+                            "name": "handR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": -8.55,
+                                        "skY": -8.55,
+                                        "y": -3.8513,
+                                        "x": -14.1093
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -8.55,
+                                        "skY": -8.55,
+                                        "y": -3.8513,
+                                        "x": -14.1093
+                                    }
+                                }
+                            ],
+                            "name": "handL"
+                        }
+                    ],
+                    "duration": 5,
+                    "playTimes": 0,
+                    "frame": [],
+                    "slot": [
+                        {
+                            "name": "tailTip",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armUpperL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "handL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "legL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "body",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "tail",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "clothes",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "hair",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "head",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "eyeL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "eyeR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "legR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armUpperR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "handR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "beardL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "beardR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "jump",
+                    "ffd": []
+                },
+                {
+                    "bone": [
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 5,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "root"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "y": -66
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -66
+                                    }
+                                }
+                            ],
+                            "name": "body"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 27.76,
+                                        "skY": 27.76,
+                                        "y": 8.9644,
+                                        "x": 6.1797
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 27.76,
+                                        "skY": 27.76,
+                                        "y": 8.576,
+                                        "x": 1.7095
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 27.76,
+                                        "skY": 27.76,
+                                        "y": 8.9644,
+                                        "x": 6.1797
+                                    }
+                                }
+                            ],
+                            "name": "legR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -69.64,
+                                        "skY": -69.64,
+                                        "y": 10
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -66.683,
+                                        "skY": -66.683,
+                                        "y": 9.8705,
+                                        "x": -1.49
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -69.64,
+                                        "skY": -69.64,
+                                        "y": 10
+                                    }
+                                }
+                            ],
+                            "name": "armUpperR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 50.73,
+                                        "skY": 50.73,
+                                        "y": 7.9,
+                                        "x": 22.6
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 50.73,
+                                        "skY": 50.73,
+                                        "y": 7.6411,
+                                        "x": 19.6199
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 50.73,
+                                        "skY": 50.73,
+                                        "y": 7.9,
+                                        "x": 22.6
+                                    }
+                                }
+                            ],
+                            "name": "legL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": -8.73,
+                                        "skY": -8.73,
+                                        "y": -3.4,
+                                        "x": 11
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -8.73,
+                                        "skY": -8.73,
+                                        "y": -3.4,
+                                        "x": 11
+                                    }
+                                }
+                            ],
+                            "name": "head"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 92.45,
+                                        "skY": 92.45,
+                                        "y": 4
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 89.9735,
+                                        "skY": 89.9735,
+                                        "y": 4.2589,
+                                        "x": 2.9801
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 92.45,
+                                        "skY": 92.45,
+                                        "y": 4
+                                    }
+                                }
+                            ],
+                            "name": "armUpperL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -18.47,
+                                        "skY": -18.47,
+                                        "y": -6.1,
+                                        "x": -3.9
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -22.44,
+                                        "skY": -22.44,
+                                        "y": -6.1,
+                                        "x": -3.9
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -18.47,
+                                        "skY": -18.47,
+                                        "y": -6.1,
+                                        "x": -3.9
+                                    }
+                                }
+                            ],
+                            "name": "tail"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "y": -4.8621,
+                                        "x": -6.0066
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "y": -4.4737,
+                                        "x": -1.5365
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -4.8621,
+                                        "x": -6.0066
+                                    }
+                                }
+                            ],
+                            "name": "clothes"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": -53.9,
+                                        "skY": -53.9,
+                                        "y": 5.8138,
+                                        "x": 4.3491
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -53.9,
+                                        "skY": -53.9,
+                                        "y": 5.8138,
+                                        "x": 4.3491
+                                    }
+                                }
+                            ],
+                            "name": "armL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 8.73,
+                                        "skY": 8.73,
+                                        "y": -4.6145,
+                                        "x": -17.7606
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 8.73,
+                                        "skY": 8.73,
+                                        "y": -3.0052,
+                                        "x": -14.8289
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 8.73,
+                                        "skY": 8.73,
+                                        "y": -4.6145,
+                                        "x": -17.7606
+                                    }
+                                }
+                            ],
+                            "name": "eyeR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 0.14,
+                                        "skY": 0.14,
+                                        "y": -1.156,
+                                        "x": 2.7983
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -0.83,
+                                        "skY": -0.83,
+                                        "y": 1.7886,
+                                        "x": 1.817
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 0.14,
+                                        "skY": 0.14,
+                                        "y": -1.156,
+                                        "x": 2.7983
+                                    }
+                                }
+                            ],
+                            "name": "tailTip"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 8.73,
+                                        "skY": 8.73,
+                                        "y": -8.1532,
+                                        "x": -13.0014
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 8.73,
+                                        "skY": 8.73,
+                                        "y": -5.9369,
+                                        "x": -13.2195
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 8.73,
+                                        "skY": 8.73,
+                                        "y": -8.1532,
+                                        "x": -13.0014
+                                    }
+                                }
+                            ],
+                            "name": "eyeL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -2.54,
+                                        "skY": -2.54,
+                                        "y": 7.7817,
+                                        "x": 0.3247
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 25.1339,
+                                        "skY": 25.1339,
+                                        "y": 7.7817,
+                                        "x": 0.3247
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -2.54,
+                                        "skY": -2.54,
+                                        "y": 7.7817,
+                                        "x": 0.3247
+                                    }
+                                }
+                            ],
+                            "name": "beardL"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": -13.14,
+                                        "skY": -13.14,
+                                        "y": -3.1965,
+                                        "x": -11.2069
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -13.14,
+                                        "skY": -13.14,
+                                        "y": -3.1965,
+                                        "x": -11.2069
+                                    }
+                                }
+                            ],
+                            "name": "armR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 8.96,
+                                        "skY": 8.96,
+                                        "y": 5.251,
+                                        "x": -7.8667
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -6.04,
+                                        "skY": -6.04,
+                                        "y": 5.251,
+                                        "x": -7.8667
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 8.96,
+                                        "skY": 8.96,
+                                        "y": 5.251,
+                                        "x": -7.8667
+                                    }
+                                }
+                            ],
+                            "name": "beardR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": -6.27,
+                                        "skY": -6.27,
+                                        "y": 7.2382,
+                                        "x": 0.5909
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -7.09,
+                                        "skY": -7.09,
+                                        "y": 0.2075,
+                                        "x": -6.3221
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": -6.27,
+                                        "skY": -6.27,
+                                        "y": 7.2382,
+                                        "x": 0.5909
+                                    }
+                                }
+                            ],
+                            "name": "hair"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": 29.52,
+                                        "skY": 29.52,
+                                        "y": -1.3692,
+                                        "x": -3.9387
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 29.52,
+                                        "skY": 29.52,
+                                        "y": -1.3692,
+                                        "x": -3.9387
+                                    }
+                                }
+                            ],
+                            "name": "handR"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "transform": {
+                                        "skX": 21.45,
+                                        "skY": 21.45,
+                                        "y": 1.4681,
+                                        "x": -3.5985
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "skX": 21.45,
+                                        "skY": 21.45,
+                                        "y": 1.4681,
+                                        "x": -3.5985
+                                    }
+                                }
+                            ],
+                            "name": "handL"
+                        }
+                    ],
+                    "duration": 5,
+                    "playTimes": 0,
+                    "frame": [],
+                    "slot": [
+                        {
+                            "name": "tailTip",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armUpperL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "handL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "legL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "body",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "tail",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "clothes",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "hair",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "head",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "eyeL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "eyeR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "legR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armUpperR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "armR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "handR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 5,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "beardL",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "beardR",
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {}
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "fall",
+                    "ffd": []
+                }
+            ],
+            "name": "Dragon"
+        }
+    ],
+    "name": "Dragon_2"
+}

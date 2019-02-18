@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: e5a4b702fec284d5293e973230cbcae0
+timeCreated: 1491960440
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: waterdrop
+    21300002: dirt_forearm_l
+    21300004: leg_r
+    21300006: leg_r2
+    21300008: dirt_hair
+    21300010: dirt_body
+    21300012: forearm_l
+    21300014: top_r
+    21300016: jeansforeleg_r
+    21300018: dirt_forearm_r
+    21300020: leg_l
+    21300022: leg_l_2
+    21300024: underware
+    21300026: forearm_r
+    21300028: jeans
+    21300030: dirt_arm_l
+    21300032: eyes
+    21300034: sleepeyes
+    21300036: arm_r
+    21300038: face
+    21300040: arm_l
+    21300042: shoe_l
+    21300044: top_l
+    21300046: dirt_face
+    21300048: dirt_cloth_l
+    21300050: jeansleg_l
+    21300052: jeansleg_l2
+    21300054: dirt_cloth_r
+    21300056: body
+    21300058: jeansforeleg_l
+    21300060: shoe_r
+    21300062: feet_l
+    21300064: jeansleg_r
+    21300066: jeansleg_r2
+    21300068: top
+    21300070: messup_hair
+    21300072: wet_hair
+    21300074: dirt_arm_r
+    21300076: dirt_cloth_body
+    21300078: feet_r
+    21300080: foreleg_l
+    21300082: pupils1
+    21300084: pupils2
+    21300086: foreleg_r
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 0
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waterdrop
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 24
+        width: 288
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5017361, y: 0.502994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dirt_forearm_l
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 7
+        width: 61
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.5034722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dirt_hair
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 193
+        width: 286
+        height: 200
+      alignment: 9
+      pivot: {x: 0.50174826, y: 0.5025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dirt_body
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 430
+        width: 211
+        height: 249
+      alignment: 9
+      pivot: {x: 0.50236964, y: 0.502008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: underware
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 9
+        width: 196
+        height: 142
+      alignment: 9
+      pivot: {x: 0.502551, y: 0.50352114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyes
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 199
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5025126, y: 0.509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: face
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 720
+        width: 296
+        height: 302
+      alignment: 9
+      pivot: {x: 0.5016892, y: 0.50165564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: jeansleg_l
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 99
+        width: 129
+        height: 294
+      alignment: 9
+      pivot: {x: 0.503876, y: 0.5017007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 297
+        width: 211
+        height: 428
+      alignment: 9
+      pivot: {x: 0.50236964, y: 0.50116825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: top
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 395
+        width: 229
+        height: 323
+      alignment: 9
+      pivot: {x: 0.5021834, y: 0.501548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: messup_hair
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 727
+        width: 385
+        height: 295
+      alignment: 9
+      pivot: {x: 0.5012987, y: 0.5016949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: wet_hair
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 60
+        width: 295
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5016949, y: 0.50212765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dirt_cloth_body
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 378
+        width: 225
+        height: 301
+      alignment: 9
+      pivot: {x: 0.50222224, y: 0.5016611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: feet_r
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4
+        width: 118
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.50537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: foreleg_l
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 494
+        width: 85
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.50223213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

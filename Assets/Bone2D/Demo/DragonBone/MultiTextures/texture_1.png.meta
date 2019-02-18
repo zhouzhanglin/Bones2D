@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 27e4df6120f9043878b11601a2ef4c33
+timeCreated: 1491960440
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leg_r
+    21300002: leg_r2
+    21300004: forearm_l
+    21300006: top_r
+    21300008: jeansforeleg_r
+    21300010: dirt_forearm_r
+    21300012: leg_l
+    21300014: leg_l_2
+    21300016: forearm_r
+    21300018: jeans
+    21300020: dirt_arm_l
+    21300022: sleepeyes
+    21300024: arm_r
+    21300026: arm_l
+    21300028: shoe_l
+    21300030: top_l
+    21300032: dirt_face
+    21300034: dirt_cloth_l
+    21300036: jeansleg_l2
+    21300038: dirt_cloth_r
+    21300040: jeansforeleg_l
+    21300042: shoe_r
+    21300044: feet_l
+    21300046: jeansleg_r
+    21300048: jeansleg_r2
+    21300050: dirt_arm_r
+    21300052: pupils1
+    21300054: pupils2
+    21300056: foreleg_r
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 0
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leg_r
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 243
+        width: 131
+        height: 283
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.5017668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: leg_r2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 13
+        width: 119
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5042017, y: 0.502193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: forearm_l
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 348
+        width: 88
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5056818, y: 0.50301206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: top_r
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 516
+        width: 106
+        height: 141
+      alignment: 9
+      pivot: {x: 0.504717, y: 0.5035461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: jeansforeleg_r
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 752
+        width: 82
+        height: 163
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.5030675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dirt_forearm_r
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 798
+        width: 114
+        height: 117
+      alignment: 9
+      pivot: {x: 0.50438595, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: leg_l
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 528
+        width: 125
+        height: 298
+      alignment: 9
+      pivot: {x: 0.504, y: 0.5016779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: leg_l_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 11
+        width: 117
+        height: 230
+      alignment: 9
+      pivot: {x: 0.50427353, y: 0.5021739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: forearm_r
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 418
+        width: 124
+        height: 165
+      alignment: 9
+      pivot: {x: 0.50403225, y: 0.5030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: jeans
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 585
+        width: 221
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5022625, y: 0.5033113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dirt_arm_l
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 394
+        width: 75
+        height: 156
+      alignment: 9
+      pivot: {x: 0.50666666, y: 0.5032051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: sleepeyes
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 844
+        width: 204
+        height: 61
+      alignment: 9
+      pivot: {x: 0.502451, y: 0.5081967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: arm_r
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 253
+        width: 115
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5043478, y: 0.5030675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: arm_l
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 400
+        width: 113
+        height: 183
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.5027322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: shoe_l
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 552
+        width: 134
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50373137, y: 0.50476193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: top_l
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 263
+        width: 105
+        height: 153
+      alignment: 9
+      pivot: {x: 0.50476193, y: 0.503268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dirt_face
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 828
+        width: 238
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5025773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dirt_cloth_l
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 562
+        width: 96
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5052083, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: jeansleg_l2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 120
+        height: 230
+      alignment: 9
+      pivot: {x: 0.50416666, y: 0.5021739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dirt_cloth_r
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 907
+        width: 101
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5049505, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: jeansforeleg_l
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 200
+        width: 90
+        height: 146
+      alignment: 9
+      pivot: {x: 0.50555557, y: 0.50342464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: shoe_r
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 917
+        width: 134
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50373137, y: 0.50476193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: feet_l
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 749
+        width: 118
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.50537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: jeansleg_r
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 738
+        width: 132
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5037879, y: 0.50176054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: jeansleg_r2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 13
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.50416666, y: 0.502193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dirt_arm_r
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 251
+        width: 112
+        height: 147
+      alignment: 9
+      pivot: {x: 0.50446427, y: 0.50340134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: pupils1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 787
+        width: 175
+        height: 55
+      alignment: 9
+      pivot: {x: 0.50285715, y: 0.5090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: pupils2
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 692
+        width: 175
+        height: 55
+      alignment: 9
+      pivot: {x: 0.50285715, y: 0.5090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: foreleg_r
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 788
+        width: 79
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.50213677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

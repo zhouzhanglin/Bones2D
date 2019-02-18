@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 19f3374296f9a46c38bb2d8d8faf679b
+timeCreated: 1514188047
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chujiao
+    21300002: datuiL
+    21300004: er
+    21300006: dabiL
+    21300008: xiaobiR
+    21300010: datuiR
+    21300012: shenti
+    21300014: xiaobiL
+    21300016: jiaoL
+    21300018: xiaotuiR
+    21300020: chibangL2
+    21300022: shouL
+    21300024: toujiaoL
+    21300026: zui
+    21300028: chibangR1
+    21300030: shouR
+    21300032: tou1
+    21300034: toujiaoR
+    21300036: chibangL1
+    21300038: author
+    21300040: jiaoR
+    21300042: xiaotuiL
+    21300044: jianbang
+    21300046: dabiR
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chujiao
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 404
+        width: 106
+        height: 112
+      alignment: 9
+      pivot: {x: 0.504717, y: 0.50446427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: datuiL
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 306
+        width: 85
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: er
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 367
+        width: 118
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.50409836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dabiL
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 490
+        width: 62
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5080645, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: xiaobiR
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 687
+        width: 122
+        height: 61
+      alignment: 9
+      pivot: {x: 0.50409836, y: 0.5081967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: datuiR
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 376
+        width: 86
+        height: 113
+      alignment: 9
+      pivot: {x: 0.50581396, y: 0.50442475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shenti
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 756
+        width: 239
+        height: 267
+      alignment: 9
+      pivot: {x: 0.50209206, y: 0.50187266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: xiaobiL
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 763
+        width: 104
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5048077, y: 0.51111114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiaoL
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 265
+        width: 97
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5051546, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: xiaotuiR
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 423
+        width: 61
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibangL2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 750
+        width: 270
+        height: 273
+      alignment: 9
+      pivot: {x: 0.50185186, y: 0.50183153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shouL
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 298
+        width: 75
+        height: 76
+      alignment: 9
+      pivot: {x: 0.50666666, y: 0.5065789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: toujiaoL
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 107
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.503268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zui
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 376
+        width: 186
+        height: 140
+      alignment: 9
+      pivot: {x: 0.50268817, y: 0.50357145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibangR1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 301
+        width: 109
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5045872, y: 0.5068493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shouR
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 284
+        width: 94
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.5048544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tou1
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 762
+        width: 71
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.51086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: toujiaoR
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 402
+        width: 200
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5025, y: 0.5032051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibangL1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 95
+        height: 62
+      alignment: 9
+      pivot: {x: 0.50526315, y: 0.5080645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: author
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 344
+        width: 372
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5013441, y: 0.5089286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiaoR
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 237
+        width: 91
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0.50476193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: xiaotuiL
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 273
+        width: 67
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jianbang
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 389
+        width: 119
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5042017, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dabiR
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 244
+        width: 87
+        height: 55
+      alignment: 9
+      pivot: {x: 0.50574714, y: 0.5090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

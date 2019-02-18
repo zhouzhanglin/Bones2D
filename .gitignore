@@ -1,0 +1,8 @@
+Library
+Temp
+*.csproj
+*.sln
+*.userprefs
+obj
+Assets/AssetStoreTools
+AssetStoreTools.meta

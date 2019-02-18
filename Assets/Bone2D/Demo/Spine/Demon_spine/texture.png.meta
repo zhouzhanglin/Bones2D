@@ -1,0 +1,1109 @@
+fileFormatVersion: 2
+guid: 1ed796fbdd8d74e4ea3ced5db492d7d8
+timeCreated: 1484657086
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yinmo07-3
+    21300002: heiqiu01
+    21300004: gaum03
+    21300006: gaum04
+    21300008: gaum00
+    21300010: gaum01
+    21300012: gaum02
+    21300014: 1637-6
+    21300016: 1637-7
+    21300018: 1637-13
+    21300020: 1637-12
+    21300022: 1637-10
+    21300024: 1637-8
+    21300026: 1637-9
+    21300028: 1637-2
+    21300030: 1637-4
+    21300032: 1637-11
+    21300034: 1637-5
+    21300036: 1637-3
+    21300038: yinmo04
+    21300040: yinmo09
+    21300042: chibang01-1
+    21300044: chibang01-2
+    21300046: chibang01
+    21300048: chibang01-3
+    21300050: yinmo09
+    21300052: 1326-9
+    21300054: 1326-4
+    21300056: 1326-5
+    21300058: 1326-6
+    21300060: 1326-7
+    21300062: 1326-8
+    21300064: yinmo11
+    21300066: biu
+    21300068: gaum03
+    21300070: gaum04
+    21300072: gaum00
+    21300074: gaum01
+    21300076: gaum02
+    21300078: huomiao01
+    21300080: huomiao01
+    21300082: yinmo10
+    21300084: yinmo06
+    21300086: chibang01-1
+    21300088: chibang01-3
+    21300090: chibang01-2
+    21300092: chibang01
+    21300094: yinmo03
+    21300096: yinmo12
+    21300098: huomiao01
+    21300100: yinmo08
+    21300102: yinmo07-1
+    21300104: 1255-5
+    21300106: 1255-2
+    21300108: 1255-3
+    21300110: 1255-7
+    21300112: 1255-4
+    21300114: 1255-6
+    21300116: yinmo05
+    21300118: yinmo10
+    21300120: yinmo12
+    21300122: yinmo07-2
+    21300124: huomiao01
+    21300126: yinmo11
+    21300128: yinmo02
+    21300130: yinmo07
+    21300132: logoJ
+    21300134: yinmoqe00
+    21300136: yinmoqe01
+    21300138: yinmoqe04
+    21300140: yinmoqe03
+    21300142: yinmoqe02
+    21300144: yinmoqe05
+    21300146: huomiao01
+    21300148: yinmo01
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yinmo07-3
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1490
+        width: 76
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: heiqiu01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1576
+        width: 505
+        height: 471
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gaum03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 754
+        width: 134
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gaum04
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 946
+        width: 117
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gaum00
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1165
+        width: 143
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gaum01
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1347
+        width: 144
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gaum02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 921
+        width: 142
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-6
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1873
+        width: 419
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-7
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1873
+        width: 419
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-13
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1527
+        width: 407
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-12
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1699
+        width: 412
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1523
+        width: 416
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1698
+        width: 419
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1873
+        width: 417
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-2
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 962
+        width: 148
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-4
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1531
+        width: 411
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1401
+        width: 414
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-5
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1697
+        width: 416
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1637-3
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1700
+        width: 274
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo04
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1333
+        width: 131
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo09
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 838
+        width: 94
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibang01-1
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1083
+        width: 202
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibang01-2
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1845
+        width: 224
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibang01
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1042
+        width: 103
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibang01-3
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1327
+        width: 224
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo09
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 838
+        width: 94
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1326-9
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1358
+        width: 356
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1326-4
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 880
+        width: 188
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1326-5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1225
+        width: 349
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1326-6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1313
+        width: 362
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1326-7
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1419
+        width: 363
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1326-8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1292
+        width: 362
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo11
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 962
+        width: 42
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: biu
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1034
+        width: 143
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gaum03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 754
+        width: 134
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gaum04
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 946
+        width: 117
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gaum00
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1165
+        width: 143
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gaum01
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1347
+        width: 144
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gaum02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 921
+        width: 142
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huomiao01
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1546
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huomiao01
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1546
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo10
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1556
+        width: 87
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo06
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1175
+        width: 87
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibang01-1
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1083
+        width: 202
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibang01-3
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1327
+        width: 224
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibang01-2
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1845
+        width: 224
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chibang01
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1042
+        width: 103
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo03
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1316
+        width: 206
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1347
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huomiao01
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1546
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo08
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 802
+        width: 105
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo07-1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1524
+        width: 60
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1255-5
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1115
+        width: 150
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1255-2
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 900
+        width: 117
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1255-3
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1172
+        width: 147
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1255-7
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1203
+        width: 156
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1255-4
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 968
+        width: 151
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1255-6
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1205
+        width: 154
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo05
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1014
+        width: 112
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo10
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1556
+        width: 87
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1347
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo07-2
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1125
+        width: 65
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huomiao01
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1546
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo11
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 962
+        width: 42
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo02
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1467
+        width: 201
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo07
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 840
+        width: 84
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: logoJ
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 905
+        width: 115
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmoqe00
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1264
+        width: 166
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmoqe01
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1124
+        width: 174
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmoqe04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1089
+        width: 155
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmoqe03
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 910
+        width: 159
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmoqe02
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1113
+        width: 161
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmoqe05
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 891
+        width: 151
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huomiao01
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1546
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yinmo01
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1094
+        width: 156
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

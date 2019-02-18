@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 16b3aeff547c64fed8d19e329cbf2fe1
+timeCreated: 1510057300
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: right3
+    21300002: left4
+    21300004: right6
+    21300006: copyrights
+    21300008: scratch1
+    21300010: right8
+    21300012: right4
+    21300014: left2
+    21300016: leftfoot
+    21300018: left7
+    21300020: left3
+    21300022: left9
+    21300024: righ7
+    21300026: left8
+    21300028: board1
+    21300030: board2
+    21300032: title
+    21300034: scratch1
+    21300036: subtitle
+    21300038: Scratch2
+    21300040: left1
+    21300042: right2
+    21300044: right1
+    21300046: leftfoot
+    21300048: body
+    21300050: body
+    21300052: left10
+    21300054: left6
+    21300056: righthand
+    21300058: lefthook
+    21300060: lefthand
+    21300062: body
+    21300064: lefthand
+    21300066: scratch1
+    21300068: left5
+    21300070: bottom
+    21300072: right9
+    21300074: right5
+    21300076: righthook
+    21300078: righthand
+    21300080: body
+    21300082: right10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 565
+        width: 87
+        height: 171
+      alignment: 9
+      pivot: {x: 0.50574714, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: left4
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 651
+        width: 77
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: right6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 664
+        width: 42
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: copyrights
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 851
+        width: 137
+        height: 7
+      alignment: 9
+      pivot: {x: 0.50364965, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scratch1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 525
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: right8
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 860
+        width: 42
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: right4
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 656
+        width: 75
+        height: 184
+      alignment: 9
+      pivot: {x: 0.50666666, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: left2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 842
+        width: 107
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: leftfoot
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 840
+        width: 24
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: left7
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 542
+        width: 33
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: left3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 669
+        width: 87
+        height: 171
+      alignment: 9
+      pivot: {x: 0.50574714, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: left9
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 860
+        width: 44
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5113636, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: righ7
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 866
+        width: 33
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: left8
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 701
+        width: 42
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: board1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 779
+        width: 244
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5020492, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: board2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 533
+        width: 244
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5020492, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: title
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 532
+        width: 162
+        height: 21
+      alignment: 9
+      pivot: {x: 0.50308645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scratch1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 525
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: subtitle
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 862
+        width: 65
+        height: 7
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Scratch2
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 912
+        width: 23
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: left1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 776
+        width: 114
+        height: 247
+      alignment: 9
+      pivot: {x: 0.50438595, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: right2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 555
+        width: 108
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5046296, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: right1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 528
+        width: 114
+        height: 246
+      alignment: 9
+      pivot: {x: 0.50438595, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: leftfoot
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 840
+        width: 24
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 738
+        width: 208
+        height: 285
+      alignment: 9
+      pivot: {x: 0.50240386, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 738
+        width: 208
+        height: 285
+      alignment: 9
+      pivot: {x: 0.50240386, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: left10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 515
+        width: 80
+        height: 152
+      alignment: 9
+      pivot: {x: 0.50625, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: left6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 664
+        width: 42
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: righthand
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 886
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lefthook
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 954
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lefthand
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 516
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 738
+        width: 208
+        height: 285
+      alignment: 9
+      pivot: {x: 0.50240386, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lefthand
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 516
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scratch1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 525
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: left5
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 651
+        width: 66
+        height: 189
+      alignment: 9
+      pivot: {x: 0.50757575, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bottom
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 615
+        width: 236
+        height: 34
+      alignment: 9
+      pivot: {x: 0.50211865, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: right9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 863
+        width: 54
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: right5
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 835
+        width: 56
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5089286, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: righthook
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 989
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: righthand
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 886
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 738
+        width: 208
+        height: 285
+      alignment: 9
+      pivot: {x: 0.50240386, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: right10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 871
+        width: 69
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

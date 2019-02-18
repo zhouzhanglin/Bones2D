@@ -1,0 +1,362 @@
+
+rabbit.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NosePOP
+  rotate: false
+  xy: 375, 9
+  size: 164, 136
+  orig: 164, 136
+  offset: 0, 0
+  index: -1
+Z
+  rotate: false
+  xy: 868, 116
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+beard1
+  rotate: false
+  xy: 675, 286
+  size: 150, 94
+  orig: 150, 94
+  offset: 0, 0
+  index: -1
+beard2
+  rotate: true
+  xy: 949, 406
+  size: 138, 63
+  orig: 138, 63
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 745
+  size: 363, 277
+  orig: 363, 277
+  offset: 0, 0
+  index: -1
+cloth_1
+  rotate: false
+  xy: 367, 603
+  size: 317, 178
+  orig: 317, 178
+  offset: 0, 0
+  index: -1
+decoration_2
+  rotate: true
+  xy: 268, 197
+  size: 254, 87
+  orig: 254, 87
+  offset: 0, 0
+  index: -1
+decoration_3
+  rotate: false
+  xy: 933, 134
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+decoration_6
+  rotate: true
+  xy: 957, 856
+  size: 166, 64
+  orig: 166, 64
+  offset: 0, 0
+  index: -1
+decoration_7
+  rotate: false
+  xy: 357, 286
+  size: 188, 173
+  orig: 188, 173
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: false
+  xy: 547, 290
+  size: 126, 169
+  orig: 126, 169
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: false
+  xy: 375, 147
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+ear3
+  rotate: true
+  xy: 2, 5
+  size: 204, 254
+  orig: 204, 254
+  offset: 0, 0
+  index: -1
+ear4
+  rotate: true
+  xy: 332, 461
+  size: 140, 306
+  orig: 140, 306
+  offset: 0, 0
+  index: -1
+ear5
+  rotate: true
+  xy: 686, 675
+  size: 140, 306
+  orig: 140, 306
+  offset: 0, 0
+  index: -1
+ear6
+  rotate: false
+  xy: 675, 382
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+ear7
+  rotate: false
+  xy: 258, 13
+  size: 115, 182
+  orig: 115, 182
+  offset: 0, 0
+  index: -1
+ear8
+  rotate: false
+  xy: 810, 389
+  size: 137, 155
+  orig: 137, 155
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 640, 559
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 934, 2
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+eye4
+  rotate: false
+  xy: 934, 2
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+eyelid1
+  rotate: true
+  xy: 887, 35
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+eyelid2
+  rotate: true
+  xy: 840, 32
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+eyelid3
+  rotate: true
+  xy: 934, 53
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+eyelid5
+  rotate: true
+  xy: 953, 293
+  size: 111, 69
+  orig: 111, 69
+  offset: 0, 0
+  index: -1
+eyelid6
+  rotate: false
+  xy: 547, 225
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+eyelid7
+  rotate: false
+  xy: 800, 190
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+eyelid8
+  rotate: true
+  xy: 908, 181
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+eyewhite2
+  rotate: false
+  xy: 790, 114
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 453
+  size: 328, 290
+  orig: 328, 290
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 662, 817
+  size: 293, 205
+  orig: 293, 205
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 827, 281
+  size: 106, 124
+  orig: 106, 124
+  offset: 0, 0
+  index: -1
+leg5
+  rotate: true
+  xy: 827, 281
+  size: 106, 124
+  orig: 106, 124
+  offset: 0, 0
+  index: -1
+leg6
+  rotate: true
+  xy: 827, 281
+  size: 106, 124
+  orig: 106, 124
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 674, 186
+  size: 98, 124
+  orig: 98, 124
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 659, 25
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: false
+  xy: 754, 28
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 544, 130
+  size: 125, 93
+  orig: 125, 93
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 686, 546
+  size: 278, 127
+  orig: 278, 127
+  offset: 0, 0
+  index: -1
+mouth2_2
+  rotate: false
+  xy: 671, 114
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 2, 211
+  size: 264, 240
+  orig: 264, 240
+  offset: 0, 0
+  index: -1
+mouth3_2
+  rotate: true
+  xy: 332, 644
+  size: 99, 29
+  orig: 99, 29
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: false
+  xy: 367, 783
+  size: 293, 239
+  orig: 293, 239
+  offset: 0, 0
+  index: -1
+mouth4_2
+  rotate: true
+  xy: 966, 564
+  size: 109, 51
+  orig: 109, 51
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 986, 25
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 541, 18
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+tongue4
+  rotate: false
+  xy: 957, 819
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+
+rabbit2.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye1
+  rotate: false
+  xy: 2, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+eyelid4
+  rotate: false
+  xy: 2, 45
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+eyewhite1
+  rotate: false
+  xy: 83, 54
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1

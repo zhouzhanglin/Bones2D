@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: a8a80efc7f16a491db057eb39e5a1e2f
+timeCreated: 1501054971
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NosePOP
+    21300002: Z
+    21300004: Z
+    21300006: Z
+    21300008: cloth_1
+    21300010: decoration_2
+    21300012: decoration_3
+    21300014: decoration_6
+    21300016: decoration_7
+    21300018: eye1
+    21300020: eye3
+    21300022: eye2
+    21300024: eye4
+    21300026: eyelid1
+    21300028: eyelid3
+    21300030: eyelid5
+    21300032: eyelid7
+    21300034: eyelid2
+    21300036: eyelid4
+    21300038: eyelid6
+    21300040: eyelid8
+    21300042: eyewhite1
+    21300044: eyewhite2
+    21300046: hat_1
+    21300048: mouth1
+    21300050: mouth3_2
+    21300052: mouth4_2
+    21300054: nose
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NosePOP
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 879
+        width: 164
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Z
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 845
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Z
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 845
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Z
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 845
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: cloth_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 243
+        width: 317
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: decoration_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 573
+        width: 87
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: decoration_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 845
+        width: 75
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: decoration_6
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2
+        width: 64
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: decoration_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 565
+        width: 188
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eye1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eye3
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 973
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eye2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 423
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eye4
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 973
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyelid1
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 910
+        width: 45
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyelid3
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 892
+        width: 75
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyelid5
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 620
+        width: 69
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyelid7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 745
+        width: 106
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyelid2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 912
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyelid4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 79
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyelid6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 736
+        width: 125
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyelid8
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 745
+        width: 79
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyewhite1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 73
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: eyewhite2
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 845
+        width: 76
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hat_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2
+        width: 293
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: mouth1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 801
+        width: 125
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: mouth3_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 281
+        width: 29
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: mouth4_2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 351
+        width: 51
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: nose
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 973
+        width: 36
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
