@@ -1,85 +1,234 @@
 fileFormatVersion: 2
 guid: 3b91c2ab138d44024a491df582e67672
-timeCreated: 1510059091
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: yinmo07-1
-    21300002: yinmo12
-    21300004: 1255-2
-    21300006: 1255-3
-    21300008: 1255-4
-    21300010: 1255-5
-    21300012: 1255-6
-    21300014: 1255-7
-    21300016: yinmo05
-    21300018: heiqiu01
-    21300020: yinmo12
-    21300022: yinmo04
-    21300024: yinmo11
-    21300026: yinmo06
-    21300028: yinmo01
-    21300030: yinmo07-3
-    21300032: 1637-2
-    21300034: 1637-3
-    21300036: 1637-4
-    21300038: 1637-5
-    21300040: 1637-6
-    21300042: 1637-7
-    21300044: 1637-8
-    21300046: 1637-9
-    21300048: 1637-10
-    21300050: 1637-11
-    21300052: 1637-12
-    21300054: 1637-13
-    21300056: chibang01
-    21300058: chibang01-1
-    21300060: chibang01-2
-    21300062: chibang01-3
-    21300064: yinmo10
-    21300066: huomiao01
-    21300068: chibang01
-    21300070: chibang01-1
-    21300072: chibang01-3
-    21300074: chibang01-2
-    21300076: yinmo09
-    21300078: yinmo08
-    21300080: huomiao01
-    21300082: yinmoqe00
-    21300084: yinmoqe01
-    21300086: yinmoqe02
-    21300088: yinmoqe03
-    21300090: yinmoqe04
-    21300092: yinmoqe05
-    21300094: yinmo09
-    21300096: huomiao01
-    21300098: yinmo02
-    21300100: 1326-4
-    21300102: 1326-5
-    21300104: 1326-6
-    21300106: 1326-7
-    21300108: 1326-8
-    21300110: 1326-9
-    21300112: huomiao01
-    21300114: gaum00
-    21300116: gaum01
-    21300118: gaum02
-    21300120: gaum03
-    21300122: gaum04
-    21300124: yinmo07
-    21300126: yinmo10
-    21300128: huomiao01
-    21300130: yinmo11
-    21300132: yinmo03
-    21300134: gaum00
-    21300136: gaum01
-    21300138: gaum02
-    21300140: gaum03
-    21300142: gaum04
-    21300144: biu
-    21300146: logoJ
-    21300148: yinmo07-2
-  serializedVersion: 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: yinmo07-1
+  - first:
+      213: 21300002
+    second: yinmo12
+  - first:
+      213: 21300004
+    second: 1255-2
+  - first:
+      213: 21300006
+    second: 1255-3
+  - first:
+      213: 21300008
+    second: 1255-4
+  - first:
+      213: 21300010
+    second: 1255-5
+  - first:
+      213: 21300012
+    second: 1255-6
+  - first:
+      213: 21300014
+    second: 1255-7
+  - first:
+      213: 21300016
+    second: yinmo05
+  - first:
+      213: 21300018
+    second: heiqiu01
+  - first:
+      213: 21300020
+    second: yinmo12
+  - first:
+      213: 21300022
+    second: yinmo04
+  - first:
+      213: 21300024
+    second: yinmo11
+  - first:
+      213: 21300026
+    second: yinmo06
+  - first:
+      213: 21300028
+    second: yinmo01
+  - first:
+      213: 21300030
+    second: yinmo07-3
+  - first:
+      213: 21300032
+    second: 1637-2
+  - first:
+      213: 21300034
+    second: 1637-3
+  - first:
+      213: 21300036
+    second: 1637-4
+  - first:
+      213: 21300038
+    second: 1637-5
+  - first:
+      213: 21300040
+    second: 1637-6
+  - first:
+      213: 21300042
+    second: 1637-7
+  - first:
+      213: 21300044
+    second: 1637-8
+  - first:
+      213: 21300046
+    second: 1637-9
+  - first:
+      213: 21300048
+    second: 1637-10
+  - first:
+      213: 21300050
+    second: 1637-11
+  - first:
+      213: 21300052
+    second: 1637-12
+  - first:
+      213: 21300054
+    second: 1637-13
+  - first:
+      213: 21300056
+    second: chibang01
+  - first:
+      213: 21300058
+    second: chibang01-1
+  - first:
+      213: 21300060
+    second: chibang01-2
+  - first:
+      213: 21300062
+    second: chibang01-3
+  - first:
+      213: 21300064
+    second: yinmo10
+  - first:
+      213: 21300066
+    second: huomiao01
+  - first:
+      213: 21300068
+    second: chibang01
+  - first:
+      213: 21300070
+    second: chibang01-1
+  - first:
+      213: 21300072
+    second: chibang01-3
+  - first:
+      213: 21300074
+    second: chibang01-2
+  - first:
+      213: 21300076
+    second: yinmo09
+  - first:
+      213: 21300078
+    second: yinmo08
+  - first:
+      213: 21300080
+    second: huomiao01
+  - first:
+      213: 21300082
+    second: yinmoqe00
+  - first:
+      213: 21300084
+    second: yinmoqe01
+  - first:
+      213: 21300086
+    second: yinmoqe02
+  - first:
+      213: 21300088
+    second: yinmoqe03
+  - first:
+      213: 21300090
+    second: yinmoqe04
+  - first:
+      213: 21300092
+    second: yinmoqe05
+  - first:
+      213: 21300094
+    second: yinmo09
+  - first:
+      213: 21300096
+    second: huomiao01
+  - first:
+      213: 21300098
+    second: yinmo02
+  - first:
+      213: 21300100
+    second: 1326-4
+  - first:
+      213: 21300102
+    second: 1326-5
+  - first:
+      213: 21300104
+    second: 1326-6
+  - first:
+      213: 21300106
+    second: 1326-7
+  - first:
+      213: 21300108
+    second: 1326-8
+  - first:
+      213: 21300110
+    second: 1326-9
+  - first:
+      213: 21300112
+    second: huomiao01
+  - first:
+      213: 21300114
+    second: gaum00
+  - first:
+      213: 21300116
+    second: gaum01
+  - first:
+      213: 21300118
+    second: gaum02
+  - first:
+      213: 21300120
+    second: gaum03
+  - first:
+      213: 21300122
+    second: gaum04
+  - first:
+      213: 21300124
+    second: yinmo07
+  - first:
+      213: 21300126
+    second: yinmo10
+  - first:
+      213: 21300128
+    second: huomiao01
+  - first:
+      213: 21300130
+    second: yinmo11
+  - first:
+      213: 21300132
+    second: yinmo03
+  - first:
+      213: 21300134
+    second: gaum00
+  - first:
+      213: 21300136
+    second: gaum01
+  - first:
+      213: 21300138
+    second: gaum02
+  - first:
+      213: 21300140
+    second: gaum03
+  - first:
+      213: 21300142
+    second: gaum04
+  - first:
+      213: 21300144
+    second: biu
+  - first:
+      213: 21300146
+    second: logoJ
+  - first:
+      213: 21300148
+    second: yinmo07-2
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -87,6 +236,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -95,6 +246,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -102,10 +255,13 @@ TextureImporter:
   textureFormat: -3
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -114,25 +270,32 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -148,7 +311,15 @@ TextureImporter:
       pivot: {x: 0.5083333, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo12
       rect:
@@ -161,7 +332,15 @@ TextureImporter:
       pivot: {x: 0.5113636, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1255-2
       rect:
@@ -174,7 +353,15 @@ TextureImporter:
       pivot: {x: 0.50427353, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1255-3
       rect:
@@ -187,7 +374,15 @@ TextureImporter:
       pivot: {x: 0.50340134, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1255-4
       rect:
@@ -200,7 +395,15 @@ TextureImporter:
       pivot: {x: 0.5033113, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1255-5
       rect:
@@ -213,7 +416,15 @@ TextureImporter:
       pivot: {x: 0.50333333, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1255-6
       rect:
@@ -226,7 +437,15 @@ TextureImporter:
       pivot: {x: 0.5032467, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1255-7
       rect:
@@ -239,7 +458,15 @@ TextureImporter:
       pivot: {x: 0.5032051, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo05
       rect:
@@ -252,7 +479,15 @@ TextureImporter:
       pivot: {x: 0.50446427, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: heiqiu01
       rect:
@@ -265,7 +500,15 @@ TextureImporter:
       pivot: {x: 0.5009901, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo12
       rect:
@@ -278,7 +521,15 @@ TextureImporter:
       pivot: {x: 0.5113636, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo04
       rect:
@@ -291,7 +542,15 @@ TextureImporter:
       pivot: {x: 0.5038168, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo11
       rect:
@@ -304,7 +563,15 @@ TextureImporter:
       pivot: {x: 0.5119048, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo06
       rect:
@@ -317,7 +584,15 @@ TextureImporter:
       pivot: {x: 0.50574714, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo01
       rect:
@@ -330,7 +605,15 @@ TextureImporter:
       pivot: {x: 0.5032051, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo07-3
       rect:
@@ -343,7 +626,15 @@ TextureImporter:
       pivot: {x: 0.5065789, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-2
       rect:
@@ -356,7 +647,15 @@ TextureImporter:
       pivot: {x: 0.5033784, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-3
       rect:
@@ -369,7 +668,15 @@ TextureImporter:
       pivot: {x: 0.5018248, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-4
       rect:
@@ -382,7 +689,15 @@ TextureImporter:
       pivot: {x: 0.50121653, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-5
       rect:
@@ -395,7 +710,15 @@ TextureImporter:
       pivot: {x: 0.5012019, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-6
       rect:
@@ -408,7 +731,15 @@ TextureImporter:
       pivot: {x: 0.50119334, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-7
       rect:
@@ -421,7 +752,15 @@ TextureImporter:
       pivot: {x: 0.50119334, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-8
       rect:
@@ -434,7 +773,15 @@ TextureImporter:
       pivot: {x: 0.50119334, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-9
       rect:
@@ -447,7 +794,15 @@ TextureImporter:
       pivot: {x: 0.50119907, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-10
       rect:
@@ -460,7 +815,15 @@ TextureImporter:
       pivot: {x: 0.5012019, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-11
       rect:
@@ -473,7 +836,15 @@ TextureImporter:
       pivot: {x: 0.5012077, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-12
       rect:
@@ -486,7 +857,15 @@ TextureImporter:
       pivot: {x: 0.5012136, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1637-13
       rect:
@@ -499,7 +878,15 @@ TextureImporter:
       pivot: {x: 0.5012285, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chibang01
       rect:
@@ -512,7 +899,15 @@ TextureImporter:
       pivot: {x: 0.5048544, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chibang01-1
       rect:
@@ -525,7 +920,15 @@ TextureImporter:
       pivot: {x: 0.50247526, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chibang01-2
       rect:
@@ -538,7 +941,15 @@ TextureImporter:
       pivot: {x: 0.50223213, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chibang01-3
       rect:
@@ -551,7 +962,15 @@ TextureImporter:
       pivot: {x: 0.50223213, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo10
       rect:
@@ -564,7 +983,15 @@ TextureImporter:
       pivot: {x: 0.50574714, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: huomiao01
       rect:
@@ -577,7 +1004,15 @@ TextureImporter:
       pivot: {x: 0.5192308, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chibang01
       rect:
@@ -590,7 +1025,15 @@ TextureImporter:
       pivot: {x: 0.5048544, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chibang01-1
       rect:
@@ -603,7 +1046,15 @@ TextureImporter:
       pivot: {x: 0.50247526, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chibang01-3
       rect:
@@ -616,7 +1067,15 @@ TextureImporter:
       pivot: {x: 0.50223213, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chibang01-2
       rect:
@@ -629,7 +1088,15 @@ TextureImporter:
       pivot: {x: 0.50223213, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo09
       rect:
@@ -642,7 +1109,15 @@ TextureImporter:
       pivot: {x: 0.5053192, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo08
       rect:
@@ -655,7 +1130,15 @@ TextureImporter:
       pivot: {x: 0.50476193, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: huomiao01
       rect:
@@ -668,7 +1151,15 @@ TextureImporter:
       pivot: {x: 0.5192308, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmoqe00
       rect:
@@ -681,7 +1172,15 @@ TextureImporter:
       pivot: {x: 0.50301206, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmoqe01
       rect:
@@ -694,7 +1193,15 @@ TextureImporter:
       pivot: {x: 0.50287354, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmoqe02
       rect:
@@ -707,7 +1214,15 @@ TextureImporter:
       pivot: {x: 0.5031056, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmoqe03
       rect:
@@ -720,7 +1235,15 @@ TextureImporter:
       pivot: {x: 0.5031447, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmoqe04
       rect:
@@ -733,7 +1256,15 @@ TextureImporter:
       pivot: {x: 0.5032258, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmoqe05
       rect:
@@ -746,7 +1277,15 @@ TextureImporter:
       pivot: {x: 0.5033113, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo09
       rect:
@@ -759,7 +1298,15 @@ TextureImporter:
       pivot: {x: 0.5053192, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: huomiao01
       rect:
@@ -772,7 +1319,15 @@ TextureImporter:
       pivot: {x: 0.5192308, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo02
       rect:
@@ -785,7 +1340,15 @@ TextureImporter:
       pivot: {x: 0.50248754, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1326-4
       rect:
@@ -798,7 +1361,15 @@ TextureImporter:
       pivot: {x: 0.50265956, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1326-5
       rect:
@@ -811,7 +1382,15 @@ TextureImporter:
       pivot: {x: 0.50143266, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1326-6
       rect:
@@ -824,7 +1403,15 @@ TextureImporter:
       pivot: {x: 0.5013812, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1326-7
       rect:
@@ -837,7 +1424,15 @@ TextureImporter:
       pivot: {x: 0.5013774, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1326-8
       rect:
@@ -850,7 +1445,15 @@ TextureImporter:
       pivot: {x: 0.5013812, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 1326-9
       rect:
@@ -863,7 +1466,15 @@ TextureImporter:
       pivot: {x: 0.5014045, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: huomiao01
       rect:
@@ -876,7 +1487,15 @@ TextureImporter:
       pivot: {x: 0.5192308, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: gaum00
       rect:
@@ -889,7 +1508,15 @@ TextureImporter:
       pivot: {x: 0.5034965, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: gaum01
       rect:
@@ -902,7 +1529,15 @@ TextureImporter:
       pivot: {x: 0.5034722, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: gaum02
       rect:
@@ -915,7 +1550,15 @@ TextureImporter:
       pivot: {x: 0.50352114, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: gaum03
       rect:
@@ -928,7 +1571,15 @@ TextureImporter:
       pivot: {x: 0.50373137, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: gaum04
       rect:
@@ -941,7 +1592,15 @@ TextureImporter:
       pivot: {x: 0.50427353, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo07
       rect:
@@ -954,7 +1613,15 @@ TextureImporter:
       pivot: {x: 0.50595236, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo10
       rect:
@@ -967,7 +1634,15 @@ TextureImporter:
       pivot: {x: 0.50574714, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: huomiao01
       rect:
@@ -980,7 +1655,15 @@ TextureImporter:
       pivot: {x: 0.5192308, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo11
       rect:
@@ -993,7 +1676,15 @@ TextureImporter:
       pivot: {x: 0.5119048, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo03
       rect:
@@ -1006,7 +1697,15 @@ TextureImporter:
       pivot: {x: 0.50242716, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: gaum00
       rect:
@@ -1019,7 +1718,15 @@ TextureImporter:
       pivot: {x: 0.5034965, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: gaum01
       rect:
@@ -1032,7 +1739,15 @@ TextureImporter:
       pivot: {x: 0.5034722, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: gaum02
       rect:
@@ -1045,7 +1760,15 @@ TextureImporter:
       pivot: {x: 0.50352114, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: gaum03
       rect:
@@ -1058,7 +1781,15 @@ TextureImporter:
       pivot: {x: 0.50373137, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: gaum04
       rect:
@@ -1071,7 +1802,15 @@ TextureImporter:
       pivot: {x: 0.50427353, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: biu
       rect:
@@ -1084,7 +1823,15 @@ TextureImporter:
       pivot: {x: 0.5034965, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: logoJ
       rect:
@@ -1097,7 +1844,15 @@ TextureImporter:
       pivot: {x: 0.5043478, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yinmo07-2
       rect:
@@ -1110,9 +1865,28 @@ TextureImporter:
       pivot: {x: 0.50769234, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

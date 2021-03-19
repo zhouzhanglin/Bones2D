@@ -1,52 +1,135 @@
 fileFormatVersion: 2
 guid: 16b3aeff547c64fed8d19e329cbf2fe1
-timeCreated: 1510057300
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: right3
-    21300002: left4
-    21300004: right6
-    21300006: copyrights
-    21300008: scratch1
-    21300010: right8
-    21300012: right4
-    21300014: left2
-    21300016: leftfoot
-    21300018: left7
-    21300020: left3
-    21300022: left9
-    21300024: righ7
-    21300026: left8
-    21300028: board1
-    21300030: board2
-    21300032: title
-    21300034: scratch1
-    21300036: subtitle
-    21300038: Scratch2
-    21300040: left1
-    21300042: right2
-    21300044: right1
-    21300046: leftfoot
-    21300048: body
-    21300050: body
-    21300052: left10
-    21300054: left6
-    21300056: righthand
-    21300058: lefthook
-    21300060: lefthand
-    21300062: body
-    21300064: lefthand
-    21300066: scratch1
-    21300068: left5
-    21300070: bottom
-    21300072: right9
-    21300074: right5
-    21300076: righthook
-    21300078: righthand
-    21300080: body
-    21300082: right10
-  serializedVersion: 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: right3
+  - first:
+      213: 21300002
+    second: left4
+  - first:
+      213: 21300004
+    second: right6
+  - first:
+      213: 21300006
+    second: copyrights
+  - first:
+      213: 21300008
+    second: scratch1
+  - first:
+      213: 21300010
+    second: right8
+  - first:
+      213: 21300012
+    second: right4
+  - first:
+      213: 21300014
+    second: left2
+  - first:
+      213: 21300016
+    second: leftfoot
+  - first:
+      213: 21300018
+    second: left7
+  - first:
+      213: 21300020
+    second: left3
+  - first:
+      213: 21300022
+    second: left9
+  - first:
+      213: 21300024
+    second: righ7
+  - first:
+      213: 21300026
+    second: left8
+  - first:
+      213: 21300028
+    second: board1
+  - first:
+      213: 21300030
+    second: board2
+  - first:
+      213: 21300032
+    second: title
+  - first:
+      213: 21300034
+    second: scratch1
+  - first:
+      213: 21300036
+    second: subtitle
+  - first:
+      213: 21300038
+    second: Scratch2
+  - first:
+      213: 21300040
+    second: left1
+  - first:
+      213: 21300042
+    second: right2
+  - first:
+      213: 21300044
+    second: right1
+  - first:
+      213: 21300046
+    second: leftfoot
+  - first:
+      213: 21300048
+    second: body
+  - first:
+      213: 21300050
+    second: body
+  - first:
+      213: 21300052
+    second: left10
+  - first:
+      213: 21300054
+    second: left6
+  - first:
+      213: 21300056
+    second: righthand
+  - first:
+      213: 21300058
+    second: lefthook
+  - first:
+      213: 21300060
+    second: lefthand
+  - first:
+      213: 21300062
+    second: body
+  - first:
+      213: 21300064
+    second: lefthand
+  - first:
+      213: 21300066
+    second: scratch1
+  - first:
+      213: 21300068
+    second: left5
+  - first:
+      213: 21300070
+    second: bottom
+  - first:
+      213: 21300072
+    second: right9
+  - first:
+      213: 21300074
+    second: right5
+  - first:
+      213: 21300076
+    second: righthook
+  - first:
+      213: 21300078
+    second: righthand
+  - first:
+      213: 21300080
+    second: body
+  - first:
+      213: 21300082
+    second: right10
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -54,6 +137,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -62,6 +147,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -69,10 +156,13 @@ TextureImporter:
   textureFormat: -3
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -81,25 +171,32 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -115,7 +212,15 @@ TextureImporter:
       pivot: {x: 0.50574714, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: left4
       rect:
@@ -128,7 +233,15 @@ TextureImporter:
       pivot: {x: 0.5064935, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: right6
       rect:
@@ -141,7 +254,15 @@ TextureImporter:
       pivot: {x: 0.5119048, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: copyrights
       rect:
@@ -154,7 +275,15 @@ TextureImporter:
       pivot: {x: 0.50364965, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: scratch1
       rect:
@@ -167,7 +296,15 @@ TextureImporter:
       pivot: {x: 0.51785713, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: right8
       rect:
@@ -180,7 +317,15 @@ TextureImporter:
       pivot: {x: 0.5119048, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: right4
       rect:
@@ -193,7 +338,15 @@ TextureImporter:
       pivot: {x: 0.50666666, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: left2
       rect:
@@ -206,7 +359,15 @@ TextureImporter:
       pivot: {x: 0.5046729, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: leftfoot
       rect:
@@ -219,7 +380,15 @@ TextureImporter:
       pivot: {x: 0.5208333, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: left7
       rect:
@@ -232,7 +401,15 @@ TextureImporter:
       pivot: {x: 0.5151515, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: left3
       rect:
@@ -245,7 +422,15 @@ TextureImporter:
       pivot: {x: 0.50574714, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: left9
       rect:
@@ -258,7 +443,15 @@ TextureImporter:
       pivot: {x: 0.5113636, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: righ7
       rect:
@@ -271,7 +464,15 @@ TextureImporter:
       pivot: {x: 0.5151515, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: left8
       rect:
@@ -284,7 +485,15 @@ TextureImporter:
       pivot: {x: 0.5119048, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: board1
       rect:
@@ -297,7 +506,15 @@ TextureImporter:
       pivot: {x: 0.5020492, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: board2
       rect:
@@ -310,7 +527,15 @@ TextureImporter:
       pivot: {x: 0.5020492, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: title
       rect:
@@ -323,7 +548,15 @@ TextureImporter:
       pivot: {x: 0.50308645, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: scratch1
       rect:
@@ -336,7 +569,15 @@ TextureImporter:
       pivot: {x: 0.51785713, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: subtitle
       rect:
@@ -349,7 +590,15 @@ TextureImporter:
       pivot: {x: 0.50769234, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Scratch2
       rect:
@@ -362,7 +611,15 @@ TextureImporter:
       pivot: {x: 0.5217391, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: left1
       rect:
@@ -375,7 +632,15 @@ TextureImporter:
       pivot: {x: 0.50438595, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: right2
       rect:
@@ -388,7 +653,15 @@ TextureImporter:
       pivot: {x: 0.5046296, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: right1
       rect:
@@ -401,7 +674,15 @@ TextureImporter:
       pivot: {x: 0.50438595, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: leftfoot
       rect:
@@ -414,7 +695,15 @@ TextureImporter:
       pivot: {x: 0.5208333, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: body
       rect:
@@ -427,7 +716,15 @@ TextureImporter:
       pivot: {x: 0.50240386, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: body
       rect:
@@ -440,7 +737,15 @@ TextureImporter:
       pivot: {x: 0.50240386, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: left10
       rect:
@@ -453,7 +758,15 @@ TextureImporter:
       pivot: {x: 0.50625, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: left6
       rect:
@@ -466,7 +779,15 @@ TextureImporter:
       pivot: {x: 0.5119048, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: righthand
       rect:
@@ -479,7 +800,15 @@ TextureImporter:
       pivot: {x: 0.51785713, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: lefthook
       rect:
@@ -492,7 +821,15 @@ TextureImporter:
       pivot: {x: 0.51785713, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: lefthand
       rect:
@@ -505,7 +842,15 @@ TextureImporter:
       pivot: {x: 0.516129, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: body
       rect:
@@ -518,7 +863,15 @@ TextureImporter:
       pivot: {x: 0.50240386, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: lefthand
       rect:
@@ -531,7 +884,15 @@ TextureImporter:
       pivot: {x: 0.516129, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: scratch1
       rect:
@@ -544,7 +905,15 @@ TextureImporter:
       pivot: {x: 0.51785713, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: left5
       rect:
@@ -557,7 +926,15 @@ TextureImporter:
       pivot: {x: 0.50757575, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: bottom
       rect:
@@ -570,7 +947,15 @@ TextureImporter:
       pivot: {x: 0.50211865, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: right9
       rect:
@@ -583,7 +968,15 @@ TextureImporter:
       pivot: {x: 0.5092593, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: right5
       rect:
@@ -596,7 +989,15 @@ TextureImporter:
       pivot: {x: 0.5089286, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: righthook
       rect:
@@ -609,7 +1010,15 @@ TextureImporter:
       pivot: {x: 0.51785713, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: righthand
       rect:
@@ -622,7 +1031,15 @@ TextureImporter:
       pivot: {x: 0.51785713, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: body
       rect:
@@ -635,7 +1052,15 @@ TextureImporter:
       pivot: {x: 0.50240386, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: right10
       rect:
@@ -648,9 +1073,28 @@ TextureImporter:
       pivot: {x: 0.5072464, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
