@@ -6,3 +6,5 @@ Temp
 obj
 Assets/AssetStoreTools
 AssetStoreTools.meta
+.vscode
+Logs
