@@ -264,31 +264,31 @@ namespace Bones2D
 
 		void UpdateSlotByInheritSlot(){
 			if(inheritSlot){
-				#if UNITY_EDITOR
-				if(!Application.isPlaying){
-					Transform temp = inheritSlot.parent;
-					Vector3 sc = inheritSlot.localScale;
-					Vector3 pos = inheritSlot.localPosition;
-					Quaternion rotate = inheritSlot.localRotation;
-					inheritSlot.parent = transform.parent;
-					transform.localScale =  inheritSlot.localScale;
-					transform.localPosition = new Vector3(inheritSlot.localPosition.x,inheritSlot.localPosition.y,transform.localPosition.z);
-					transform.localRotation = inheritSlot.localRotation;
-					inheritSlot.parent = temp;
-					inheritSlot.localScale = sc;
-					inheritSlot.localPosition = pos;
-					inheritSlot.localRotation = rotate;
-				}
-				#endif
+// 				#if UNITY_EDITOR
+// 				if(!Application.isPlaying){
+// 					Transform temp = inheritSlot.parent;
+// 					Vector3 sc = inheritSlot.localScale;
+// 					Vector3 pos = inheritSlot.localPosition;
+// 					Quaternion rotate = inheritSlot.localRotation;
+// 					inheritSlot.parent = transform.parent;
+// 					transform.localScale =  inheritSlot.localScale;
+// 					transform.localPosition = new Vector3(inheritSlot.localPosition.x,inheritSlot.localPosition.y,transform.localPosition.z);
+// 					transform.localRotation = inheritSlot.localRotation;
+// 					inheritSlot.parent = temp;
+// 					inheritSlot.localScale = sc;
+// 					inheritSlot.localPosition = pos;
+// 					inheritSlot.localRotation = rotate;
+// 				}
+// 				#endif
 
-				if (Application.isPlaying) {
-					Vector3 p = inheritSlot.position;
-					p.z = transform.position.z;
-					transform.position = p;
-					transform.rotation = inheritSlot.rotation;
-					transform.localScale = Vector3.one;
-					transform.localScale = transform.InverseTransformVector (inheritSlot.TransformVector(inheritSlot.localScale));
-				}
+// 				if (Application.isPlaying) {
+				Vector3 p = inheritSlot.position;
+				p.z = transform.position.z;
+				transform.position = p;
+				transform.rotation = inheritSlot.rotation;
+				transform.localScale = Vector3.one;
+				transform.localScale = transform.InverseTransformVector (inheritSlot.TransformVector(inheritSlot.localScale));
+// 				}
 			}
 		}
 
